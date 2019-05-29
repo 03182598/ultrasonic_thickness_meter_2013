@@ -1,2 +1,4 @@
 # ultrasonic_thickness_meter_2013
-Firmware for microcontreller ATmega128 indevice: ultrasonic thickness meter
+Firmware for microcontreller ATmega128 in device: ultrasonic thickness meter
+Main file: test2.c
+Compile: AVR Studio
